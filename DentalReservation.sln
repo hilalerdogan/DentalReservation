@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalReservation.Api", "DentalReservation\DentalReservation.Api.csproj", "{48A5DFF3-5487-473C-9809-D45CA0DC8116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48A5DFF3-5487-473C-9809-D45CA0DC8116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A5DFF3-5487-473C-9809-D45CA0DC8116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A5DFF3-5487-473C-9809-D45CA0DC8116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A5DFF3-5487-473C-9809-D45CA0DC8116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9046433-04F7-44BE-95C8-F9271694AD12}
+	EndGlobalSection
+EndGlobal
